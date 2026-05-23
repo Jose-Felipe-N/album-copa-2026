@@ -11,7 +11,7 @@
 
 ## 🖥️ Preview
 
-<!-- Adicione um screenshot aqui depois -->
+![Dashboard](assets/Dashboard_copa.png)
 > _Dashboard com progresso por grupo e seleção, gerenciamento por time, busca, repetidas e importação em lote._
 
 ---
